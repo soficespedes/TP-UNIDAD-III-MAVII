@@ -1,0 +1,7 @@
+Hola profe. Por alguna razón que desconozco, al principio cuando hice la actividad 4, esta se guardó en la carpeta de la actividad 3. Cuando lo quise mover a su respectiva carpeta, el programa ya no me abría el proyecto, decía que no encontraba el .cpp en la carpeta "Actividad III" cuando yo ya había movido el proyecto anteriormente y actualizado la carpeta. Reinicié y todo y seguía buscando la carpeta "Avatar" dentro de la carpeta de la actividad 3. 
+
+Por ello, la unica solución que encontré fue volver a colocar la carpeta en donde la buscaba VisualStudio, y ahí si lo abrió el programa. Así que ahora la carpeta se llama "Actividad III y IV".
+
+Espero se haya entendido el inconveniente.  
+
+Saludos. 

@@ -171,7 +171,7 @@ void Game::InitPhysics()
 	b2Body* topWallBody = Box2DHelper::CreateRectangularStaticBody(phyWorld, 100, 10);
 	topWallBody->SetTransform(b2Vec2(50.0f, 0.0f), 0.0f);
 
-	// Crear el cuerpo de la pelota (círculo) en una posición intermedia
+	// Creamos el cuerpo de la pelota (círculo) en una posición intermedia
 	circuloCentral = Box2DHelper::CreateCircularDynamicBody(phyWorld, 5, 1.0f, 0.5, 0.8f);
 	circuloCentral->SetTransform(b2Vec2(50.0f, 50.0f), 0.0f);
 	circuloCentral->SetLinearVelocity(b2Vec2(10.0f, 0.0f));
